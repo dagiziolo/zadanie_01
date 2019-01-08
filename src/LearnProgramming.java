@@ -9,5 +9,6 @@ public class LearnProgramming {
         System.out.println("modyfikowania.");
         System.out.println("Uczę się też zamieszczać dane");
         System.out.println("w repozytorium.");
+        System.out.println("Ciekawe co będzie dalej...");
     }
 }

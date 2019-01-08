@@ -6,6 +6,8 @@ public class LearnProgramming {
         System.out.println("i");
         System.out.println("commitowania");
         System.out.println("i");
-        System.out.println("modyfikowania");
+        System.out.println("modyfikowania.");
+        System.out.println("Uczę się też zamieszczać dane");
+        System.out.println("w repozytorium.");
     }
 }
